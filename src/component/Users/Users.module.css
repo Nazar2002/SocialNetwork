@@ -1,0 +1,14 @@
+.stylephoto{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+.selectedPage{
+    font-size: 20px;
+    border: 2px solid grey;
+    margin-bottom: 10px;
+}
+.item{
+    padding-left: 12px;
+    padding-top: 5px;
+}
